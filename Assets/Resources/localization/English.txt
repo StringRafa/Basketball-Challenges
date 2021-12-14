@@ -1,0 +1,13 @@
+back=Back
+display=Display Language
+challenge=Challenge
+store=Store
+buy=Purchase
+advice=Advice: To hit a RIM SHOT the ball must hit the hoop and enter.
+earn=Earn
+advice1=Advice: To hit a SWISH SHOT the ball must go straight into the basket without hitting anything.
+advice2=Advice: To hit a SKY HOOK, throw the ball into the air and hit the basket.
+advice3=Advice: To hit a HOT TABLE the ball must hit the table and enter without hitting the hoop.
+options=Options
+free=FreeStyle
+style=FreeStyle: Use this mode to train, the points you get in this mode will not be saved.

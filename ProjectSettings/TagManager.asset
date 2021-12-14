@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - chao
+  - cima_pos
+  - baixo_pos
+  - esquerda_pos
+  - direita_pos
+  - dots
+  - bola
+  - mao
+  - bolinhas
+  - bolaclone
+  - Aro
+  - tabela
+  - Sky
+  - rimTxt
+  - SwishTxt
+  - SkyTxt
+  - NumBolas
+  - d1
+  - d2
+  - d3
+  - togg1
+  - togg2
+  - togg3
+  - coinUI
+  - contador
+  - FundoC
+  - BtnEntendi
+  - TelaFundo
+  - desafio1ap
+  - desafio2ap
+  - desafio3ap
+  - telaWL
+  - TxtWL
+  - btnAvancar
+  - btnvoltar
+  - btnnovamente
+  - imgBolasLoja
+  - arearestrita
+  - btnbaixo
+  - btncima
+  - btncompra1
+  - btncompra2
+  - 50Pontos
+  - 100Pontos
+  - 150Pontos
+  - desafio4ap
+  - d4
+  - togg4
+  - HotTxt
+  - 300Pontos
+  - 10Pontos
+  - togg5
+  - d5
+  - SwishSkyTxt
+  - 250Pontos
+  - desafio5ap
+  - carregando
+  - AdsBtn
+  - loading
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

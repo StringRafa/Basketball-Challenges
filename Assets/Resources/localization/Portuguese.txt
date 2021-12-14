@@ -1,0 +1,13 @@
+back=Voltar
+display=Escolher Linguagem
+challenge=Desafios
+store=Loja
+buy=Comprar
+advice=Dica: Para acertar um RIM SHOT a bola deve bater no aro e entrar.
+earn=Ganhe
+advice1=Dica: Para acertar um SWISH SHOT a bola deve entrar direto na cesta sem bater em nada.
+advice2=Dica: Para acertar um SKY HOOK lance a bola para o alto e acerte a cesta.
+advice3=Dica: Para acertar um HOT TABLE a bola deve bater na tabela e entrar sem bater no aro.
+options=Ajustes
+free=Modo Livre
+style=Modo Livre: Use esse modo para treinar, os pontos que conseguir neste modo não serão salvos.
